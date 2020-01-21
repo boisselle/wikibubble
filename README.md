@@ -12,4 +12,16 @@
 #	The link text is displayed on the bubble.	#
 #########################################################		
 
-	
+#########################################################
+#							#
+#	USE CASE WORKFLOWS:				#
+#	A user will be greeted by a single page with 	#
+#	a small amount of information regarding		#
+#	the tool, along with a suggestion for its use	#
+#	and finishing with a call to action for the	#
+#	user to enter a piece of text into the field.	#
+#	After this has been initiated, there is a 	#
+#	check on whether it is a valid wikipedia	#
+#	and if it is not, then a proper display page	#
+#	comes up. 					#
+#########################################################
